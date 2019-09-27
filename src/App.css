@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  min-width: 100vw;
+  color: white;
+}
+
+.App-logo {
+  height: 20vmin;
+}
+
+.App-header {
+  min-height: 30vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.seconds-container h1 {
+  display: inline;
+}
+
+.seconds-container input {
+  font-size: 24px;
+}
+
+.seconds-container {
+  margin: 10px;
+}
+
+.formats-container {
+  margin: 10px;
+}
+
+button {
+  font-size: 24px;
+  margin: 10px;
+}
+
+.formats-container h1 {
+  display: inline;
+}
+
+.defaultFormat {
+  display: inline-grid;
+}
+
+.controls {
+  display: inline;
+}
+
+.startButton {
+  background-color: green;
+  color: white;
+}
+
+.stopButton {
+  background-color: red;
+  color: white;
+}
