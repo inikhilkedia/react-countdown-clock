@@ -1,7 +1,4 @@
 ## React Countdown Clock
-#### Coding Challenge for Sam's Club Frontend Role. 
-
-![alt text](https://github.com/inikhilkedia/react-countdown-clock/blob/master/screenshot.png "React Countdown Clock Screenshot")
 
 ## Available Scripts
 
